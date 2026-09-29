@@ -1,4 +1,4 @@
-# 🟢 Sistema de Gestão de Restaurantes — Serviços Node.js
+# 🟢 QuickOrder — Serviços Node.js
 
 Serviço auxiliar responsável por funcionalidades assíncronas e comunicação em tempo real, como **atualização de status e notificações**.
 
@@ -12,7 +12,7 @@ Serviço auxiliar responsável por funcionalidades assíncronas e comunicação 
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd service
+cd back_NODEJS
 npm install
 npm run dev
 ```
